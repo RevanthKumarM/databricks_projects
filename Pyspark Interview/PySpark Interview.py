@@ -1,6 +1,6 @@
 # Databricks notebook source
 # MAGIC %md
-# MAGIC # **PYSPARK INTERVIEW QUESTIONS - ANSH LAMBA**
+# MAGIC # **PYSPARK INTERVIEW QUESTIONS**
 
 # COMMAND ----------
 
